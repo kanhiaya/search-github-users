@@ -1,5 +1,6 @@
 ## Starter Project
 
+- Netlify URL - https://kan-react-githubuser-search.netlify.app/
 - css provided (global styles, styled components)
 - folders/files already setup
 - all imports included (warnings)
